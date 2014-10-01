@@ -18,7 +18,7 @@
     ],
     "dependencies": {
         "lodash/lodash": "*",
-        "ifandelse/ConduitJS": "~0.3.2"
+        "ryanfields/ConduitJS": "fix-target-name"
     },
     "scripts": ["lib/postal.min.js", "lib/postal.js"],
     "license": "MIT"
